@@ -1,2 +1,2 @@
 # Códigos misceláneos
-Cosas que no son de la Facultad
+Aqui subo códigos variados que no tienen relación entre sí, son solo ideas locas
