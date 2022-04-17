@@ -1,2 +1,2 @@
-# 002
-Cosas que NO son de la Facultad
+# Códigos misceláneos
+Cosas que no son de la Facultad
