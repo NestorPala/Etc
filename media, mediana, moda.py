@@ -14,7 +14,7 @@ def media(nums):
 # En el ámbito de la estadística, la mediana representa el valor de 
 # la variable de posición central en un conjunto de datos ordenados.
 # Si la serie tiene un número par de puntuaciones, 
-# la mediana es la media entre las dos puntuaciones centrales
+# la mediana es la media entre las dos puntuaciones centrales.
 def mediana(nums):
     if not nums: 
         return None
