@@ -99,6 +99,7 @@ def separador() -> str:
 
 
 # "18:00" -> True; "asadasdasda" -> False
+# https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
 def es_horario(texto: str) -> bool:
 	return re.search("^\d\d\:\d\d$", texto)
 
